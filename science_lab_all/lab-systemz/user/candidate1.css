@@ -1,0 +1,56 @@
+ 
+.alum-info {
+	margin-top: 50px;
+	text-align: center;
+
+}
+.img-hw{
+	height: 400px;
+	width: 400px;
+
+}
+.pad-20{
+	padding: 20px;
+}
+.para{
+	margin-top: 30px;
+	padding: 10px 30px 10px 30px;
+
+}
+#research p{
+	font-size: 25px;
+}
+.eq1{
+	border: 1px solid black;
+	border-radius: 5px; 
+	height: 900px;
+	margin-top: 30px;
+
+}
+.eq1 img{
+	width: 300px;
+	height: 300px;
+	margin-top: 40px;
+
+}
+
+.eq1  h3{
+    text-align: center;
+    margin-top: 20px;
+
+}
+.eq2 h3{
+	 text-align: center;
+    margin-top: 20px;
+}
+.box2{
+ height: 800px;
+}
+.eq2{
+	border: 1px solid black;
+	border-radius: 5px; 
+	height: 900px;
+	margin-top: 30px;
+}
+
+

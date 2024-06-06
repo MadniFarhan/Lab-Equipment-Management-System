@@ -1,0 +1,293 @@
+*{
+  width: auto;
+  height: auto;
+}
+.cta-title{
+  color: white;
+}
+.Teamphoto h1{
+  color: black;
+  margin-bottom: 60px;
+  font-family: Times New Romans;
+}
+  .Teamphoto img{
+       max-width: 100%;
+       height: auto;
+       border-radius: 8px;
+       display: block;
+       margin-left: auto;
+       margin-right: auto;
+        
+
+  }
+.p1 img{
+  width: 350px;
+  height: 350px;
+}
+  
+
+/* Style the links inside the navigation bar */
+.new .container a {
+  float: left;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 18px 22px;
+  text-decoration: none;
+  font-size: 17px;
+  font-family: sans-serif;
+ /* border: 1px solid white;*/
+  margin: 30px;
+  color: white;
+  border-radius: 5px;
+  background: #69acc7;
+  
+
+  
+}
+
+/* Change the color of links on hover */
+.new .container a:hover {
+  background: #ddd;
+  color: black;
+
+
+}
+
+
+.p1{
+   padding-left: 20px;
+   color: black;
+
+}
+ .p1 h4,h5{
+       margin-top: 20px;
+       margin-left: 50px;
+       font-family: Times New Romans;
+
+        
+ }
+
+ .p1 img{
+      max-width: 250px;
+       height: 280px;
+       border-radius: 8px;
+       display: block;
+       margin-left: auto;
+       margin-right: auto;
+       margin-top: 20px;
+       
+ }
+ .p1 a{
+  color: black;
+ }
+.table{
+     margin-top: 40px;
+     margin-bottom: 60px;
+
+     
+}
+.table .thead-dark tr{
+    margin: 20px;
+    background: #F5F5F5;
+    padding: 20px;
+
+}
+
+.slide-content .c-img img{
+   width: 300px ;
+   height: 400px;
+   margin-bottom: 20px;
+
+ }
+
+.slide-content .info h4,p{
+  font-size: 20px;
+  text-align: center;
+  
+
+}
+.slide-title {
+  color: white;
+
+}
+.hero .slide-content h2{
+     padding-top: 370px;
+}
+.slide-content .interest{
+  margin-top: 0px;
+
+}
+.slide-content .interest h4,h6,p{
+   color: black;
+
+}
+
+.table{
+  margin-top: 30px;
+  margin-bottom: 40px;
+
+}
+#alumini
+{
+  /* background-image: linear-gradient(to right,  #005AA7 , #FFFDE4);*/
+    
+    background-image: radial-gradient(#005AA7 , #FFFDE4,#005AA7);
+   
+   margin-top: 170px;
+  padding: 40px;
+  
+  font-weight: 400;
+  
+  color: black;
+  
+}
+.alumini p,th,td{
+  color:black ;
+  font-family: Times New Romans;
+
+}
+
+.alumini{
+  /*margin-top: 170px;
+  padding: 40px;
+  color:black ;*/
+  
+}
+.alumini h1,h4{
+  text-align: center;margin-top: 30px;
+  color: black;
+   font-family: Times New Romans;
+}
+.alumini p{
+  padding: 0px 30px 30px 30px;
+}
+ 
+/*.alum-info {
+  margin-top: 50px;
+  text-align: center;
+  color: black;
+  background-image: linear-gradient(to right,#005AA7 , #FFFDE4);
+
+
+}*/
+.info {
+   color: black;
+}
+.R-interest{
+  color: black;
+}
+.Achievements{
+  margin-top: 40px;
+}
+
+.img-hw{
+  height: 400px;
+  width: 400px;
+
+}
+/*.teaminfo{
+   background-image: linear-gradient(to right, #005AA7 , #FFFDE4);
+}*/
+
+.para{
+  margin-top: 30px;
+  padding: 10px 30px 10px 30px;
+
+}
+.hero1{
+   background-image: radial-gradient(#005AA7 , #FFFDE4,#2667FF);
+}
+.hero2{
+   background-image: radial-gradient(#005AA7 , #FFFDE4,#005AA7);
+}
+.hero3{
+      background-image: radial-gradient(#005AA7 , #FFFDE4,#005AA7); 
+}
+.hero{
+    /* background-image: linear-gradient(to right, #0083B0 , #00B4DB);*/
+      /* background-image: radial-gradient(#005AA7 , #5800FF ,#005AA7 , #FFFDE4 ,#0C1E7F);*/
+        background-image: radial-gradient(#005AA7 , #FFFDE4,#005AA7);
+      
+}
+.hero2{
+   background-image: radial-gradient(#005AA7 , #FFFDE4,#005AA7);
+}
+
+#research {
+  margin-top:170px;
+  /*background-image: linear-gradient(to right,   #FFFDE4, #005AA7);*/
+   background-image: radial-gradient(#005AA7 , #FFFDE4,#005AA7);
+  padding: 40px;
+  color: black;
+  
+
+  }
+ /* #research:hover{
+    opacity: 50%;
+  }
+*/
+.research p{
+  font-size: 25px;
+  color: black;
+  padding: 50px;
+  font-weight:500;
+   font-family: Times New Romans;
+  
+}
+.research h1,h2{
+  color: black;
+  text-align: center;margin-top: 30px;
+   font-family: Times New Romans;
+
+}
+#equipments{
+ /* background-image: linear-gradient(to left,  #FFFDE4, #005AA7 );*/
+  background-image: radial-gradient(#005AA7 , #FFFDE4,#2667FF);
+
+}
+#equipments h1{
+   font-family: Times New Romans;
+   text-align: center;margin-top: 30px; color: black;
+}
+.pics{
+  margin: 0px;
+  padding: 0px;
+}
+.eq1{
+  border: 1px solid black;
+  border-radius: 5px; 
+  height: 1270px;
+  margin-top: 30px;
+  color: black;
+  font-weight: 400;
+   font-family: Times New Romans;
+
+}
+.eq1 img{
+  width: 300px;
+  height: 300px;
+  margin-top: 40px;
+
+}
+
+.eq1  h3{
+    text-align: center;
+    margin-top: 15px;
+    color: black;
+
+}
+/*.eq2 h3{
+   text-align: center;
+    margin-top: 15px;
+    color: black;
+}
+
+.eq2{
+  border: 1px solid black;
+  border-radius: 5px; 
+  height: 1050px;
+  margin-top: 30px;
+}
+*/
+
